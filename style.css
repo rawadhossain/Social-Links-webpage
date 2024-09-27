@@ -75,7 +75,7 @@ p {
     font-size: 1rem;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 5px 15px rgba(0, 0, 0.1, 0.3);
+    box-shadow: 0 5px 15px rgba(2, 23, 13, 0.5);
     display: flex;
     align-items: center;
     justify-content: center;
